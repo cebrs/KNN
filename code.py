@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 18 17:14:51 2021
-
-@author: celia
-"""
-
 import numpy as np
 import random
 import pandas as pd
