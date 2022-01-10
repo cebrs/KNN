@@ -17,3 +17,5 @@ Bibliothèques : Numpy/Pandas/matplotlib.pyplot
 4. Calcul des distances et classement par ordre croissant
 5. Récupérer les k premiers voisins
 6. Retourne la classe la plus présente
+
+Les csv correspondent aux datasets.
