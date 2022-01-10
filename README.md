@@ -6,7 +6,8 @@ Le K-NN effectue une prédiction pour une valeur donnée sans calculer un modèl
 Il existe plusieurs manières de calculer la distance : euclidienne ou Manhattan par exemple. La distance euclidienne est la plus souvent utilisée et est considérée comme « la plus sûre ». 
 
 Environnement : Spyder
-Bibliothèques : NUmpy/Pandas/matplotlib.pyplot
+
+Bibliothèques : Numpy/Pandas/matplotlib.pyplot
 
 # Fonctionnement
 
